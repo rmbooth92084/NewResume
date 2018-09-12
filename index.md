@@ -1,8 +1,8 @@
 
 ## Resume: Raymond M Booth
 
-![GitHub Logo] 
-(https://rmbooth92084.github.io/me.jpg)
+![Image] 
+(https://github.com/rmbooth92084/rmbooth92084.github.io/blob/master/me.jpg?raw=true)
 
 # Email :
 rmbooth92084@gmail.com
