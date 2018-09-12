@@ -1,7 +1,7 @@
 
 ## Resume: Raymond M Booth
 
-![Image] (https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg)
+![Image of Yaktocat] (https://octodex.github.com/images/yaktocat.png)
 
 ### Volunteer/Work
 - Worked at school library during orientation and assisted incoming students (2012-2013)
