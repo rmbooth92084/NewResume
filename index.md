@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+![Image of me] (file:///C:/Users/rmboo/Desktop/me.jpg)
+##Resume: Raymond M Booth
 
-You can use the [editor on GitHub](https://github.com/rmbooth92084/NewResume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Volunteer/Work
+-Worked at school library during orientation and assisted incoming students (2012-2013)
+-Helped feed the homeless at Bread of Life (2015)
+-Worked as a cashier and server at Boston Market (2016-2017)
+--Greeted customers and made sure they had everything to they needed
+--I worked hard to stock all necessary things to be productive while serving customers
+-Woked at Fry's Electromnics Customer Servace as a casher in 2017
+-Transfered to the Tech Service Depatment later that year (2017-currnent)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skills
+-Certified ROP Computer Game Design
+-Certified ROP Video Broadcasting
+-Award for 4.09 GPA and participating in sports(2015-2016)
+-Peer counselor and lead leadership activities
+-Trained to do level 0 and 1 computer IT
 
-### Markdown
+### Awards
+-Award for 4.09 GPA and participating in sports(2015-2016)
+-Most improved player in Varsity basketball (2014-2015)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rmbooth92084/NewResume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Education
+Along with the general requirements for high school, I have taken many Advanced Placement
+AP) classes as well as technical courses directed towards specific career skills. 
+I am currently enrolled in Miracosta college working on my associate's degree.
+-Mission Vista High School Graduate with 4.09 GPA
+-Game design using Javascript and C#
+-Knows how to program in java
+-Video Broadcasting using Adobe Premiere Pro
+-Current college gpa is 3.0
