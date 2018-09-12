@@ -4,19 +4,19 @@
 ![Image] (file:///C:/Users/rmboo/Desktop/me.jpg)
 
 ### Volunteer/Work
--Worked at school library during orientation and assisted incoming students (2012-2013)
+- Worked at school library during orientation and assisted incoming students (2012-2013)
 
--Helped feed the homeless at Bread of Life (2015)
+- Helped feed the homeless at Bread of Life (2015)
 
--Worked as a cashier and server at Boston Market (2016-2017)
+- Worked as a cashier and server at Boston Market (2016-2017)
 
---Greeted customers and made sure they had everything to they needed
+  - Greeted customers and made sure they had everything to they needed
 
---I worked hard to stock all necessary things to be productive while serving customers
+  - I worked hard to stock all necessary things to be productive while serving customers
 
--Woked at Fry's Electromnics Customer Servace as a casher in 2017
+- Woked at Fry's Electromnics Customer Servace as a casher in 2017
 
--Transfered to the Tech Service Depatment later that year (2017-currnent)
+- Transfered to the Tech Service Depatment later that year (2017-currnent)
 
 ### Skills
 -Certified ROP Computer Game Design
