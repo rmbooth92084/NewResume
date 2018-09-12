@@ -1,8 +1,6 @@
 
 ## Resume: Raymond M Booth
 
-![Image of Yaktocat] (https://octodex.github.com/images/yaktocat.png)
-
 ### Volunteer/Work
 - Worked at school library during orientation and assisted incoming students (2012-2013)
 
