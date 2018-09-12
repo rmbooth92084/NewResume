@@ -1,7 +1,7 @@
 
-##Resume: Raymond M Booth
+## Resume: Raymond M Booth
 
-![Image of me] (file:///C:/Users/rmboo/Desktop/me.jpg)
+![Image] (file:///C:/Users/rmboo/Desktop/me.jpg)
 
 ### Volunteer/Work
 -Worked at school library during orientation and assisted incoming students (2012-2013)
@@ -38,6 +38,7 @@
 Along with the general requirements for high school, I have taken many Advanced Placement
 AP) classes as well as technical courses directed towards specific career skills. 
 I am currently enrolled in Miracosta college working on my associate's degree.
+
 -Mission Vista High School Graduate with 4.09 GPA
 
 -Game design using Javascript and C#
