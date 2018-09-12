@@ -1,7 +1,7 @@
 
 ## Resume: Raymond M Booth
 
-! [Image of me] 
+![Image of me] 
 (https://rmbooth92084.github.io/me.jpg)
 
 # Email :
