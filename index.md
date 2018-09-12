@@ -1,7 +1,7 @@
 
 ## Resume: Raymond M Booth
 
-![Image] (file:///C:/Users/rmboo/Desktop/me.jpg)
+![Image] (https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg)
 
 ### Volunteer/Work
 - Worked at school library during orientation and assisted incoming students (2012-2013)
@@ -19,32 +19,32 @@
 - Transfered to the Tech Service Depatment later that year (2017-currnent)
 
 ### Skills
--Certified ROP Computer Game Design
+- Certified ROP Computer Game Design
 
--Certified ROP Video Broadcasting
+- Certified ROP Video Broadcasting
 
--Award for 4.09 GPA and participating in sports(2015-2016)
+- Award for 4.09 GPA and participating in sports(2015-2016)
 
--Peer counselor and lead leadership activities
+- Peer counselor and lead leadership activities
 
--Trained to do level 0 and 1 computer IT
+- Trained to do level 0 and 1 computer IT
 
 ### Awards
--Award for 4.09 GPA and participating in sports(2015-2016)
+- Award for 4.09 GPA and participating in sports(2015-2016)
 
--Most improved player in Varsity basketball (2014-2015)
+- Most improved player in Varsity basketball (2014-2015)
 
 ### Education
 Along with the general requirements for high school, I have taken many Advanced Placement
 AP) classes as well as technical courses directed towards specific career skills. 
 I am currently enrolled in Miracosta college working on my associate's degree.
 
--Mission Vista High School Graduate with 4.09 GPA
+- Mission Vista High School Graduate with 4.09 GPA
 
--Game design using Javascript and C#
+- Game design using Javascript and C#
 
--Knows how to program in java
+- Knows how to program in java
 
--Video Broadcasting using Adobe Premiere Pro
+- Video Broadcasting using Adobe Premiere Pro
 
--Current college gpa is 3.0
+- Current college gpa is 3.0
