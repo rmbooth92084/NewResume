@@ -1,6 +1,8 @@
 
 ## Resume: Raymond M Booth
 
+![image of me] (rmbooth92084.github.io/me.jpg)
+
 ### Volunteer/Work
 - Worked at school library during orientation and assisted incoming students (2012-2013)
 
