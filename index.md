@@ -50,4 +50,4 @@ I am currently enrolled in Miracosta college working on my associate's degree.
 
 - Video Broadcasting using Adobe Premiere Pro
 
-- Current college gpa is 3.0
+- Current college gpa is 3.2
