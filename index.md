@@ -29,7 +29,7 @@ Service Technician
 
 ## Skills
  Languages
-- C/C++, Java, Verilog, JavaScript
+- C/C++(Most Comfortable), Java(Proficient), Verilog(Okay), JavaScript(Used before)
 
 Other
 - Linux, Raspberry pi zero W, Windows, Google Suite
