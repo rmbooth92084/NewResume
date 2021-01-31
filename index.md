@@ -6,48 +6,31 @@
 # Email :
 rmbooth92084@gmail.com
 
-### Volunteer/Work
-- Worked at school library during orientation and assisted incoming students (2012-2013)
+## Education
+University of California, Riverside - Riverside, CA  (2019 - Current)
+- BS in Computer Engineering
+Miracosta Community College - Oceanside, CA (2016 -2019)
+- AA in Liberal Arts Mathmatics and Sciences
 
-- Helped feed the homeless at Bread of Life (2015)
+## Experince
+Fry's Electronics - San Marcos (2017 - 2019)
+Service Technician
 
-- Worked as a cashier and server at Boston Market (2016-2017)
+- Serviced customers and their PCs in person as well as over the phone
 
-  - Greeted customers and made sure they had everything to they needed
+- Analyzed and fixed software and hardware issues
 
-  - I worked hard to stock all necessary things to be productive while serving customers
+-	Built PCs for customers
 
-- Woked at Fry's Electromnics Customer Servace as a casher in 2017
+- Established customer relations
 
-- Transfered to the Tech Service Depatment later that year (2017-currnent)
 
-### Skills
-- Certified ROP Computer Game Design
+## Skills
+ Languages
+- C/C++, Java, Verilog, JavaScript
 
-- Certified ROP Video Broadcasting
+Other
+- Linux, Raspberry pi zero W, Windows, Google Suite
 
-- Award for 4.09 GPA and participating in sports(2015-2016)
-
-- Peer counselor and lead leadership activities
-
-- Trained to do level 0 and 1 computer IT
-
-### Awards
-- Award for 4.09 GPA and participating in sports(2015-2016)
-
-- Most improved player in Varsity basketball (2014-2015)
-
-### Education
-Along with the general requirements for high school, I have taken many Advanced Placement
-AP) classes as well as technical courses directed towards specific career skills. 
-I am currently enrolled in Miracosta college working on my associate's degree.
-
-- Mission Vista High School Graduate with 4.09 GPA
-
-- Game design using Javascript and C#
-
-- Knows how to program in java
-
-- Video Broadcasting using Adobe Premiere Pro
-
-- Current college gpa is 3.2
+## Projects
+- Worked in a group to develop a calculator using three different design patterns
