@@ -9,6 +9,8 @@ rmbooth92084@gmail.com
 ## Education
 University of California, Riverside - Riverside, CA  (2019 - Current)
 - BS in Computer Engineering
+- Current upper-division GPA: 3.55
+
 Miracosta Community College - Oceanside, CA (2016 -2019)
 - AA in Liberal Arts Mathmatics and Sciences
 
